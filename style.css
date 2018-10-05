@@ -9,18 +9,17 @@ body , html{
 	float: left;
 	width: 80px;
 	height: 80px;
-	 border: solid  thin;
 
 }
 
 .white_square{
 
-	background-color: Bisque;
+	background-color:Bisque;
 
 }
 .black_square{
 
-background-color: Bisque;
+background-color:BurlyWood ;
 }
 .clear_float{
 	clear: both;
@@ -60,8 +59,8 @@ background-color: Bisque;
 }
 
 .checker{
-	width: 70px;
-	height: 70px;
+	width: 65px;
+	height: 65px;
 	border-radius: 50%;
 	position: absolute;
 	cursor: pointer;
@@ -69,7 +68,7 @@ background-color: Bisque;
 }
 
 .white_checker{
-	background:#F80000;
+	background:#CC0010;
  -webkit-transition: 0.3s ease-in-out;
 	-moz-transition: 0.3s ease-in-out;
   -o-transition: 0.3s ease-in-out;
@@ -99,14 +98,3 @@ background-color: Bisque;
 		width: 400px;
 		height: 400px;
 	}
-
-	.square{
-		width: 50px;
-		height: 50px;
-	}
-
-	.checker{
-		width: 32px;
-		height: 32px;
-	}
-}
